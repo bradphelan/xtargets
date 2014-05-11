@@ -1,6 +1,7 @@
 --- 
 title: Stubbing Time.zone.now in Rails for fun and profit
 date: 11/08/2011
+layout: post
 --- 
 
 Having lots of queries in my project that depend on Time.now and

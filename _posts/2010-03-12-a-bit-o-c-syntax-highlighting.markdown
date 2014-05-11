@@ -1,6 +1,8 @@
 --- 
 title: A bit O C++ syntax highlighting
 date: 12/03/2010
+layout: post
+--- 
 
 Some C++ code
 

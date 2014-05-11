@@ -1,6 +1,7 @@
 --- 
 title: Ruby net-ssh with sudo
 date: 12/10/2010
+layout: post
 --- 
 
 Monkey patch Net/SSH as below

@@ -1,6 +1,7 @@
 --- 
 title: Automagically create a style guide with SASS that will make you and your designer happy
 date: 19/05/2011
+layout: post
 --- 
 
 Communication with a designer in your project is not always easy. They work with Adobe

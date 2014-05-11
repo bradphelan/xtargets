@@ -1,6 +1,7 @@
 --- 
 title: Binding model attributes to form elements with backbone js
 date: 11/06/2011
+layout: post
 --- 
 
 If you are familiar with [backbone js](http://documentcloud.github.com/backbone/#View) then you know the

@@ -1,6 +1,7 @@
 --- 
 title: validating collection size on has many through relations in rails3
 date: 13/02/2011
+layout: post
 --- 
 
 If I have the following model

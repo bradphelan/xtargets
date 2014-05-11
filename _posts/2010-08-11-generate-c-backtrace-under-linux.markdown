@@ -1,6 +1,7 @@
 --- 
 title: Generate c++ backtrace under linux
 date: 11/08/2010
+layout: post
 --- 
 
 

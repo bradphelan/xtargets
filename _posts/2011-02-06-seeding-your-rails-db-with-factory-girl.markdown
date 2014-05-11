@@ -1,6 +1,7 @@
 --- 
 title: Seeding your rails db with Factory Girl
 date: 06/02/2011
+layout: post
 --- 
 
 Assuming you are using factory girl!!

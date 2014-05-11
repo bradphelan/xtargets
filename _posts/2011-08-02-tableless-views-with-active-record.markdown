@@ -1,6 +1,7 @@
 --- 
 title: Tableless views with active record
 date: 02/08/2011
+layout: post
 --- 
 
 ActiveRecord is great. It is awsome. The new ActiveRelation support for chaining

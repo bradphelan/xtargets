@@ -1,6 +1,7 @@
 --- 
 title: Make a nice horizontal list with dividers with sass and compass
 date: 05/05/2011
+layout: post
 --- 
 
 List are nice. They are easy to build with html and using css can be hooked

@@ -1,6 +1,7 @@
 --- 
 title: concatenating ranges in C++ with boost join
 date: 08/07/2010
+layout: post
 --- 
 
 boost::join does not copy the two vectors into a new container but generates a

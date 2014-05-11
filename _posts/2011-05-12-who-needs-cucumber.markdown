@@ -1,6 +1,7 @@
 --- 
 title: Who needs Cucumber?
 date: 12/05/2011
+layout: post
 --- 
 
 I've played with cucumber and honestly it doesn't work for me. It's the

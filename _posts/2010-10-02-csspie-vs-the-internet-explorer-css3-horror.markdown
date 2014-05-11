@@ -1,6 +1,7 @@
 --- 
 title: CSSPIE vs the Internet Explorer CSS3 Horror
 date: 02/10/2010
+layout: post
 --- 
 
 I mentioned in my last post the horror that was internet explorer CSS3 support. I just

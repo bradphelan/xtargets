@@ -1,6 +1,7 @@
 --- 
 title: Fixing SVN conflicts with kdiff3
 date: 26/05/2010
+layout: post
 --- 
 
 Git has hall the niceness baked in for fixing conflicts with kdiff3

@@ -1,6 +1,7 @@
 --- 
 title: RSpec meta expectations over collections
 date: 12/08/2011
+layout: post
 --- 
 
 Found myself writing specs like

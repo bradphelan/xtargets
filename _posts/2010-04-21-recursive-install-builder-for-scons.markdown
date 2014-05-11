@@ -1,6 +1,7 @@
 --- 
 title: Recursive install builder for SCons
 date: 21/04/2010
+layout: post
 --- 
 
 The current env.Install builder is broken for installing

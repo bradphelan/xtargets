@@ -1,6 +1,7 @@
 --- 
 title: RSpec steps for cleaner specs
 date: 25/02/2012
+layout: post
 --- 
 
 The following RSpec idiom drives me nuts in my unit tests.

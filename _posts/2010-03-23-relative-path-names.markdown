@@ -1,6 +1,7 @@
 --- 
 title: Relative path names
 date: 23/03/2010
+layout: post
 --- 
 
 Who is sick of

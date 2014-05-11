@@ -1,6 +1,7 @@
 --- 
 title: Using gmail for email on a heroku managed domain
 date: 04/10/2010
+layout: post
 --- 
 
 If you have a domain on [heroku](http://heroku.com) and wish to receive emails on

@@ -1,6 +1,7 @@
 --- 
 title: SASS and Compass with Rack
 date: 02/10/2010
+layout: post
 --- 
 
 As it took me a little while to collect the information on how to do this perhapps

@@ -1,6 +1,7 @@
 --- 
 title: Proxy mocks with RSpec
 date: 19/03/2010
+layout: post
 --- 
 
 Perhapps you want to test a particular method on a class and really like the RSpec mock framework for tracking

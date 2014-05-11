@@ -1,6 +1,7 @@
 --- 
 title: backbone.js and jquery mobile build a language trainer
 date: 11/03/2011
+layout: post
 --- 
 
 To learn some more about backbone.js and jquery mobile I decided to build a little

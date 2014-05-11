@@ -1,6 +1,7 @@
 --- 
 title: using boost::optional as a range
 date: 03/06/2010
+layout: post
 --- 
 
 boost::optional is a great utility. I find more and more uses for it everywhere. However I've started

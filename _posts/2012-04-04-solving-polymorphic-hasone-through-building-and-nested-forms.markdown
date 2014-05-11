@@ -1,6 +1,7 @@
 --- 
 title: Solving polymorphic has_one through building and nested forms
 date: 04/04/2012
+layout: post
 --- 
 
 I recently hit on the brilliant idea of using __STI__ (single table inheritence),

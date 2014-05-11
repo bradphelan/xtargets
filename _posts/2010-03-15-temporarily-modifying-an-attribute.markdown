@@ -1,6 +1,7 @@
 --- 
 title: temporarily modifying a ruby attribute
 date: 15/03/2010
+layout: post
 --- 
 
 A usefull little trick mixed into class Object

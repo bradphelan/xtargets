@@ -1,6 +1,7 @@
 --- 
 title: Using Webmock to bridge http calls to Rack::Test
 date: 09/05/2011
+layout: post
 --- 
 
 [Webmock](https://github.com/bblimke/webmock) is a neat library for

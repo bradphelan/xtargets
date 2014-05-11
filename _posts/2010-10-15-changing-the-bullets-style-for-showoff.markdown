@@ -1,6 +1,7 @@
 --- 
 title: "Changing the bullets style for showoff"
 date: 15/10/2010
+layout: post
 --- 
 
 I got forced into doing a presentation lately and as I'm no

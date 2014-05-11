@@ -1,6 +1,7 @@
 --- 
 title: Autofill timezone selects with the browser timezone
 date: 09/02/2012
+layout: post
 --- 
 
 Setting timezones in forms is a drag. Making it a little easier on the user lowers

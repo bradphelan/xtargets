@@ -1,6 +1,7 @@
 --- 
 title: The new CSS is SASSY
 date: 01/10/2010
+layout: post
 --- 
 
 By all admission I am a CSS luddite. Floating is for surfboards. Anyway I've taken a look at CSS

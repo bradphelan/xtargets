@@ -1,6 +1,7 @@
 --- 
 title: It just works
 date: 15/03/2010
+layout: post
 --- 
 
 

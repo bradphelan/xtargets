@@ -1,6 +1,7 @@
 --- 
 title: Why wouldn't you use haml?
 date: 05/10/2010
+layout: post
 --- 
 
 The template for the layout for this blog

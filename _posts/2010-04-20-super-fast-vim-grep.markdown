@@ -1,6 +1,7 @@
 --- 
 title: Super fast vim grep
 date: 20/04/2010
+layout: post
 --- 
 
 In your .vimrc file do

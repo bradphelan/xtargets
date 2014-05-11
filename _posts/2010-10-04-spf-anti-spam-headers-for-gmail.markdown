@@ -1,6 +1,7 @@
 --- 
 title: SPF anti SPAM headers for GMAIL
 date: 04/10/2010
+layout: post
 --- 
 
 My previous post showed how to set up gmail for your own custom domain. A friend

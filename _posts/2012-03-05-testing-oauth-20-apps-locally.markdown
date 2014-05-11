@@ -1,6 +1,7 @@
 --- 
 title: Testing OAuth 2.0 apps locally
 date: 05/03/2012
+layout: post
 --- 
 
 In your facebook app setup do

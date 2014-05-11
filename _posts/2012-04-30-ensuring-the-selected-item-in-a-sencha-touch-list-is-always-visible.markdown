@@ -2,6 +2,7 @@
 layout: post
 title: Ensuring the selected item in a sencha touch list is always visible.
 date: 30/04/2012
+layout: post
 --- 
 
 Sencha Touch "Ext.List" lists are nice and flexible but they have one fiddly

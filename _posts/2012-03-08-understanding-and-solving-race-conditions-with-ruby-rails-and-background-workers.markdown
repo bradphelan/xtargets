@@ -1,6 +1,7 @@
 --- 
 title: Understanding and solving race conditions with ruby rails and background workers
 date: 08/03/2012
+layout: post
 --- 
 
 Once upon a time you wrote a web application where a request would come in, you

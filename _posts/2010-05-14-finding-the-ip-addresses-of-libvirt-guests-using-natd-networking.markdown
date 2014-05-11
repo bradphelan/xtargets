@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 Libvirt uses dnsmasq to provide a DHCP service for the guests that are
 using NAT'd networking. I have one guest running with a hostname

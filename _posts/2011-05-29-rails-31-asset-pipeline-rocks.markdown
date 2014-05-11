@@ -1,6 +1,7 @@
 --- 
 title: Rails 3.1 Asset pipeline rocks!
 date: 29/05/2011
+layout: post
 --- 
 
 app/assets/javascripts/m/crazy.js.coffee.erb

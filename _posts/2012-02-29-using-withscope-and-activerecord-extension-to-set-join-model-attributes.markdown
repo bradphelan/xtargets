@@ -1,6 +1,7 @@
 --- 
 title: Using with_scope and ActiveRecord extension to set join model attributes
 date: 29/02/2012
+layout: post
 --- 
 
  

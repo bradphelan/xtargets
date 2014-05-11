@@ -1,6 +1,7 @@
 --- 
 title: Cutting and pasting source code from VIM to Skype
 date: 13/10/2010
+layout: post
 --- 
 
 I found cutting and pasting snippets of code into my skype im very tedious

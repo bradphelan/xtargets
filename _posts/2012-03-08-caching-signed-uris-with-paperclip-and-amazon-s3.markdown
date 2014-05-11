@@ -1,6 +1,7 @@
 --- 
 title: Caching signed uris with Paperclip and Amazon S3
 date: 08/03/2012
+layout: post
 --- 
 
 With paperclip we can specify that a generated URL will

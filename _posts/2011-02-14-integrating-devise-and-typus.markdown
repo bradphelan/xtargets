@@ -1,6 +1,7 @@
 --- 
 title: integrating devise and typus
 date: 14/02/2011
+layout: post
 --- 
 
 Unfortunately [typus](https://github.com/fesplugas/typus) as good as it is has it's own authentication and authorisation framework

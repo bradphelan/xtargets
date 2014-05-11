@@ -2,6 +2,7 @@
 layout: post
 title: MVVM with Backbone.js
 date: 07/07/2012
+layout: post
 --- 
 
 I became intruiged with knockout.js recently as I remember my frustration

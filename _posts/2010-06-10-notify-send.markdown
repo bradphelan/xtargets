@@ -1,6 +1,7 @@
 --- 
 title: notify-send
 date: 10/06/2010
+layout: post
 --- 
 
 If you as me spend a lot of time waiting for C++ projects to rebuild then

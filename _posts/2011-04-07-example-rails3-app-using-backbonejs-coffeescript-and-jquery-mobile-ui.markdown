@@ -1,6 +1,7 @@
 --- 
 title: Example rails3 app using backbone.js, coffeescript and jquery mobile ui
 date: 07/04/2011
+layout: post
 --- 
 
 In a previous post I noted some work I was doing on a rails3 app for mobile to help

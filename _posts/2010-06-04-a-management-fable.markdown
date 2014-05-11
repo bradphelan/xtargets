@@ -1,6 +1,7 @@
 --- 
 title: A management fable
 date: 04/06/2010
+layout: post
 --- 
 
 Once upon a time...

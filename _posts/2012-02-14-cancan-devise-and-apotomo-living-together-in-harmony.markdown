@@ -1,6 +1,7 @@
 --- 
 title: CANCAN Devise and Apotomo living together in harmony
 date: 14/02/2012
+layout: post
 --- 
 
 The [Apotomo Framework](https://github.com/apotonick/apotomo) cleans up Ruby On

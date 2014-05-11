@@ -1,6 +1,7 @@
 --- 
 title: Simple javascript powered inline confirm
 date: 29/03/2012
+layout: post
 --- 
 
 Browser confirmation dialogs are ugly. They can't really be styled

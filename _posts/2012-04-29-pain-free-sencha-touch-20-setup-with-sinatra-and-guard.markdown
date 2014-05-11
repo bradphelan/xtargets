@@ -1,6 +1,7 @@
 --- 
 title: Pain free sencha touch 2.0 setup with sinatra and guard
 date: 29/04/2012
+layout: post
 --- 
 
 Setting up a dencent workflow with sencha touch is not too complex especially
