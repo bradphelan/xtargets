@@ -1,0 +1,17 @@
+# Site settings
+title: XTargets
+email: bradphelan@xtargets.com
+description: "XTarget "
+baseurl: ""
+url: "http://xtargets.com"
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
