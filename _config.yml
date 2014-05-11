@@ -1,8 +1,8 @@
 # Site settings
 title: XTargets
 email: bradphelan@xtargets.com
-description: "XTarget "
-baseurl: ""
+description: "XTargets - Technical blog of Brad Phelan"
+baseurl: "/xtargets"
 url: "http://xtargets.com"
 
 # Build settings
