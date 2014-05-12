@@ -2,7 +2,7 @@
 title: XTargets
 email: bradphelan@xtargets.com
 description: "XTargets - Technical blog of Brad Phelan"
-baseurl: "/xtargets"
+baseurl: ""
 url: "http://xtargets.com"
 
 # Build settings
